@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: erarki18n\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-03-11 08:00+0800\n"
-"PO-Revision-Date: 2024-03-26 11:20\n"
+"PO-Revision-Date: 2024-03-26 14:15\n"
 "Last-Translator: \n"
 "Language-Team: English\n"
 "Language: en_US\n"
@@ -19,35 +19,35 @@ msgstr ""
 
 #: .\data\csv\Ability.csv:6
 msgid "Ｎ感觉"
-msgstr ""
+msgstr "N Feel"
 
 #: .\data\csv\Ability.csv:7
 msgid "Ｂ感觉"
-msgstr ""
+msgstr "B Feel"
 
 #: .\data\csv\Ability.csv:8
 msgid "Ｃ感觉"
-msgstr ""
+msgstr "C Feel"
 
 #: .\data\csv\Ability.csv:9
 msgid "Ｐ感觉"
-msgstr ""
+msgstr "P Feel"
 
 #: .\data\csv\Ability.csv:10
 msgid "Ｖ感觉"
-msgstr ""
+msgstr "V Feel"
 
 #: .\data\csv\Ability.csv:11
 msgid "Ａ感觉"
-msgstr ""
+msgstr "A Feel"
 
 #: .\data\csv\Ability.csv:12
 msgid "Ｕ感觉"
-msgstr ""
+msgstr "U Feel"
 
 #: .\data\csv\Ability.csv:13
 msgid "Ｗ感觉"
-msgstr ""
+msgstr "W Feel"
 
 #: .\data\csv\Ability.csv:15
 msgid "Ｖ扩张"
