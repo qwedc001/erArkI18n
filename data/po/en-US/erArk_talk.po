@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: erarki18n\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-03-11 08:00+0800\n"
-"PO-Revision-Date: 2024-03-26 08:33\n"
+"PO-Revision-Date: 2024-03-27 03:46\n"
 "Last-Translator: \n"
 "Language-Team: English\n"
 "Language: en_US\n"
@@ -19,11 +19,11 @@ msgstr ""
 
 #: .\data\talk\arts\hormone_off.csv:6
 msgid "{Name}关闭了信息素"
-msgstr ""
+msgstr "{Name} Deactivated pheromones"
 
 #: .\data\talk\arts\hormone_on.csv:6
 msgid "{Name}开启了信息素"
-msgstr ""
+msgstr "{Name} Activated pheromones"
 
 #: .\data\talk\arts\hypnosis_all.csv:6
 msgid "{Name}发动源石技艺，将在场所有人都催眠了"
@@ -9166,7 +9166,7 @@ msgstr ""
 
 #: .\data\talk\chara\358_铃兰.csv:9
 msgid "咿呀！{Name}......突然之间是怎么了？"
-msgstr ""
+msgstr "Ya! {Name}...... What happened suddenly?"
 
 #: .\data\talk\chara\377_澄闪.csv:6
 msgid "“嗯，博士你的發梢是不是都快要跳到兜帽外面來了？有時間的話，記得打理一下頭髮哦。”"
@@ -10388,7 +10388,7 @@ msgstr ""
 
 #: .\data\talk\chara\4091_U-Official.csv:12
 msgid "“哦？博士你好啊！”"
-msgstr ""
+msgstr "\"Hmm? Hello doctor!\""
 
 #: .\data\talk\chara\4091_U-Official.csv:13
 msgid "“嘿嘿~遇到博士了，开心。”"
@@ -10422,7 +10422,8 @@ msgstr ""
 #: .\data\talk\chara\4091_U-Official.csv:19
 msgid "“请问我还可以……继续看看吗？不……没，没，没什么！！”\n\n"
 "{TargetName}逃离了房间。"
-msgstr ""
+msgstr "\"I wonder if I can still......continue to watch? No...... no,no,nothing!!!\"\n\n"
+"{TargetName} escaped from the room."
 
 #: .\data\talk\chara\4091_U-Official.csv:20
 msgid "“博，博士……请问我可不可以录一下你们做爱的视频？作为（*小声）自己学习满足博士的性技的参考……啊？没…没说什么，是说作为我那个专供岛上女干员的私密配信的素材。”\n\n"
@@ -10522,12 +10523,13 @@ msgstr ""
 
 #: .\data\talk\chara\4091_U-Official.csv:38
 msgid "“哇啊……罗德岛的菜单总是让人感到眼花缭乱……博士~能不能给我推荐一下呢？♪”"
-msgstr ""
+msgstr "\"Woah...... Rhodes Island's menu is always dazzling...... Doctor ~ Could you please recommend me some tasty ones?♪\""
 
 #: .\data\talk\chara\4091_U-Official.csv:39
 msgid "“呼呼~呼呼~好吃的♪~甜甜的♪”\n\n"
 "{TargetName}的面前摆着很多甜点"
-msgstr ""
+msgstr "\"Hmm ~ hmm ~ delicious and sweet ♪\"\n\n"
+"{TargetName}'s front has a lot of desserts."
 
 #: .\data\talk\chara\4091_U-Official.csv:40
 msgid "“博士……就是那个，请问博士最近有没有空啊，就是……呃……没……没什么……//////”\n\n"
@@ -10796,11 +10798,11 @@ msgstr ""
 
 #: .\data\talk\daily\apologize.csv:6
 msgid "{Name}的道歉失败了"
-msgstr ""
+msgstr "{Name}'s apology failed."
 
 #: .\data\talk\daily\apologize.csv:7
 msgid "{Name}表达了对{TargetName}的歉意，但对方没有接受"
-msgstr ""
+msgstr "{Name} expressed his apology to {TargetName},but didn't receive a forgiveness."
 
 #: .\data\talk\daily\apologize.csv:8
 msgid "{Name}向{TargetName}道歉了，但对方依旧很生气"
@@ -13599,7 +13601,7 @@ msgstr ""
 
 #: .\data\talk\obscenity\kiss.csv:26
 msgid "{Name}轻吻{TargetName}的脸颊。"
-msgstr ""
+msgstr "{Name} gently kissed {TargetName}'s face."
 
 #: .\data\talk\obscenity\kiss.csv:27
 msgid "{Name}轻吻{TargetName}。\n"
