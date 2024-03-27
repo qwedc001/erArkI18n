@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: erarki18n\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2024-03-11 08:00+0800\n"
-"PO-Revision-Date: 2024-03-27 02:28\n"
+"PO-Revision-Date: 2024-03-27 03:45\n"
 "Last-Translator: \n"
 "Language-Team: English\n"
 "Language: en_US\n"
@@ -243,7 +243,7 @@ msgstr "Night service"
 
 #: .\data\csv\AssistantServices.csv:9
 msgid "否|晚安吻|晚安咬"
-msgstr ""
+msgstr "no|Night-Ankis|Night-Anbbi"
 
 #: .\data\csv\AssistantServices.csv:10
 msgid "同居服务"
@@ -10229,7 +10229,7 @@ msgstr "Black hard reinforced gloves"
 
 #: .\data\character\0149_清道夫.csv:4
 msgid "清道夫"
-msgstr ""
+msgstr "Scavenger"
 
 #: .\data\character\0149_清道夫.csv:13
 msgid "一枚银币。也许能用它决定一些更重要的事。"
